@@ -1,0 +1,14 @@
+<svg width="1000" height="28" viewBox="0 0 1000 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dLineHub" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#3f6ed9" stop-opacity="0"/>
+      <stop offset="8%"  stop-color="#3f6ed9" stop-opacity="0.55"/>
+      <stop offset="25%" stop-color="#2fbf8e" stop-opacity="0.5"/>
+      <stop offset="45%" stop-color="#e0566b" stop-opacity="0.5"/>
+      <stop offset="65%" stop-color="#e05f9f" stop-opacity="0.5"/>
+      <stop offset="85%" stop-color="#3fc9c0" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3fc9c0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="13" width="1000" height="1.4" fill="url(#dLineHub)"/>
+</svg>
